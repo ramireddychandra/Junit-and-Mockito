@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="StringHelperTest (1)" project="02_JunitTestingBasics" tests="4" started="4" failures="0" errors="0" ignored="0">
+  <testsuite name="com.junit.helper.StringHelperTest" time="0.026" displayname="StringHelperTest" uniqueid="[engine:junit-jupiter]/[class:com.junit.helper.StringHelperTest]">
+    <testcase name="testTruncateAInFirst2Positions" classname="com.junit.helper.StringHelperTest" time="0.019" displayname="testTruncateAInFirst2Positions()" uniqueid="[engine:junit-jupiter]/[class:com.junit.helper.StringHelperTest]/[method:testTruncateAInFirst2Positions()]"/>
+    <testcase name="testTruncateAInFirst2Positions2" classname="com.junit.helper.StringHelperTest" time="0.002" displayname="testTruncateAInFirst2Positions2()" uniqueid="[engine:junit-jupiter]/[class:com.junit.helper.StringHelperTest]/[method:testTruncateAInFirst2Positions2()]"/>
+    <testcase name="testTruncateAInFirst2Positions3" classname="com.junit.helper.StringHelperTest" time="0.001" displayname="testTruncateAInFirst2Positions3()" uniqueid="[engine:junit-jupiter]/[class:com.junit.helper.StringHelperTest]/[method:testTruncateAInFirst2Positions3()]"/>
+    <testcase name="testTruncateAInFirst2Positions4" classname="com.junit.helper.StringHelperTest" time="0.001" displayname="testTruncateAInFirst2Positions4()" uniqueid="[engine:junit-jupiter]/[class:com.junit.helper.StringHelperTest]/[method:testTruncateAInFirst2Positions4()]"/>
+  </testsuite>
+</testrun>

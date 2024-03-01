@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="StringHelperTest" project="01_JunitTestingBasics" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="com.junit.helper.StringHelperTest" time="0.03" displayname="StringHelperTest" uniqueid="[engine:junit-jupiter]/[class:com.junit.helper.StringHelperTest]">
+    <testcase name="testTruncateAInFirst2Positions" classname="com.junit.helper.StringHelperTest" time="0.027" displayname="testTruncateAInFirst2Positions()" uniqueid="[engine:junit-jupiter]/[class:com.junit.helper.StringHelperTest]/[method:testTruncateAInFirst2Positions()]"/>
+    <testcase name="test" classname="com.junit.helper.StringHelperTest" time="0.002" displayname="test()" uniqueid="[engine:junit-jupiter]/[class:com.junit.helper.StringHelperTest]/[method:test()]"/>
+    <testcase name="testTruncateAInFirst2Positions2" classname="com.junit.helper.StringHelperTest" time="0.001" displayname="testTruncateAInFirst2Positions2()" uniqueid="[engine:junit-jupiter]/[class:com.junit.helper.StringHelperTest]/[method:testTruncateAInFirst2Positions2()]"/>
+  </testsuite>
+</testrun>

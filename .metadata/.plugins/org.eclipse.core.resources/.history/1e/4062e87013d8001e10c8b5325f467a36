@@ -1,0 +1,36 @@
+package com.junit.helper;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+import com.junit.helper.StringHelper;
+
+class StringHelperTest {
+	
+//	ABCD = False. ABAB =True ,AB =True, A = False
+
+
+	StringHelper helper =new StringHelper();
+
+	
+	@Test
+	void testTruncateAInFirst2Positions() {
+		assertTrue(helper.areFirstAndLastTwoCharactersTheSame("ABCD"));
+	}
+	
+	@Test
+	void testTruncateAInFirst2Positions2() {
+		assertTrue(helper.areFirstAndLastTwoCharactersTheSame("ABAB"));
+	}
+
+	@Test
+	void testTruncateAInFirst2Positions3() {
+		assertTrue(helper.areFirstAndLastTwoCharactersTheSame("A"));
+	}
+	
+	@Test
+	void testTruncateAInFirst2Positions4() {
+		assertTrue(helper.areFirstAndLastTwoCharactersTheSame("AB"));
+	}
+}
