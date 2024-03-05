@@ -13,7 +13,6 @@ class StringHelperTest {
 
 	StringHelper helper =new StringHelper();
 
-	
 	@Test
 	void testAreFirstAndLastTwoCharactersTheSame() {
 		assertFalse(helper.areFirstAndLastTwoCharactersTheSame("ABCD"));
